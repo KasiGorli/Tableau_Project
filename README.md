@@ -32,7 +32,7 @@ outpatient-clinic-performance-dashboard/
 
 ## Tools Used
 
-Tableau Prep
+**Tableau Prep
 
 Data cleaning (splits, renaming, grouping)
 
@@ -50,7 +50,7 @@ Tableau Public
 
 Multi-page dashboard
 
-KPIs, time-series, heatmaps, and benchmarks
+KPIs, time-series, heatmaps, and benchmarks**
 
 Dashboard filters and user interactivity
 ---
