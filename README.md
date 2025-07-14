@@ -28,7 +28,7 @@ outpatient-clinic-performance-dashboard/
 ├── output/
 │   └── cleaned_clinic_data.csv        # Final aggregated output
 
----
+```
 
 ## Tools Used
 
