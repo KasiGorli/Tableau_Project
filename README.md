@@ -27,3 +27,79 @@ outpatient-clinic-performance-dashboard/
 │
 ├── output/
 │   └── cleaned_clinic_data.csv        # Final aggregated output
+
+---
+
+## Tools Used
+
+Tableau Prep
+
+Data cleaning (splits, renaming, grouping)
+
+Union of datasets
+
+Joins with provider and survey data
+
+Pivots on survey categories
+
+Aggregation by Clinic, Provider, and Week
+
+Simulated FIXED LOD-style calculations
+
+Tableau Public
+
+Multi-page dashboard
+
+KPIs, time-series, heatmaps, and benchmarks
+
+Dashboard filters and user interactivity
+---
+## Key Metrics
+Visit Count (weekly, per provider and clinic)
+
+Average Wait Time
+
+No-show Count & No-show %
+
+Average Visit Duration
+
+Patient Satisfaction Scores
+
+Category-wise Satisfaction (Communication, Cleanliness, etc.)
+
+Clinic-level vs Provider-level Benchmarking
+---
+## Dashboards Included
+Clinic Weekly Overview
+Trends in volume, wait time, and no-show rate
+
+Provider Comparison
+Satisfaction, no-show count, and specialty performance
+
+Satisfaction Analysis
+Donut charts and stacked bars on patient feedback
+
+Action Center (LOD Benchmarking)
+Compare provider no-show % with clinic average
+---
+## Tableau Prep Highlights
+ Data Cleaning: Field renaming, type conversion, split values
+
+ Transformation: Create flags, case conversion, calculated fields
+
+ Pivots: Convert survey scores into analyzable categories
+
+ Aggregations: Group by week, provider, clinic
+
+ LOD-style Aggregation: Simulated FIXED [Clinic] level joins
+
+ Final Output for Tableau Public
+---
+## Project Purpose
+This project is designed for:
+
+Practicing Tableau Prep’s full workflow capabilities
+
+Publishing clean, professional dashboards using real-world healthcare metrics
+
+Demonstrating portfolio-ready work with documentation, code, and visuals
